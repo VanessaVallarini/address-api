@@ -3,7 +3,7 @@ Application responsible for return latitude and longitude based on IP address
 
 ## How to run locally
 - Install [Go](https://go.dev/)
-- Install docker [Rancher Desktop](https://ifood.atlassian.net/wiki/spaces/IL/pages/3049586786/Migrando+do+Docker+Desktop+para+o+Rancher+Desktop+no+Mac) / [Colima](https://ifood.atlassian.net/wiki/spaces/EN/pages/2971992107/Instala+o+do+Docker+no+MacBook+M1+e+Intel)
+- Install docker
 
 ### Assemble Configuration File
 This section is just to explain how to run configuration if necessary.
